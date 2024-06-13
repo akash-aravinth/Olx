@@ -14,7 +14,9 @@ import java.io.PrintWriter;
 
 @WebServlet("/purchase")
 public class Purchase extends HttpServlet {
+
     private OrderDao orderDao;
+
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         doPost(req, resp);
@@ -24,17 +26,17 @@ public class Purchase extends HttpServlet {
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         orderDao = new OrderDao();
         HttpSession session = req.getSession();
-        if (session.getAttribute("userId") == null){
+        if (session.getAttribute("userId") == null) {
             PrintWriter pw = resp.getWriter();
             pw.println("Please Login And Order Something");
             RequestDispatcher dispatcher = req.getRequestDispatcher("login.jsp");
-            dispatcher.forward(req,resp);
+            dispatcher.forward(req, resp);
         }
         String productid = req.getParameter("id");
-        int userId = (int)session.getAttribute("userId");
-        orderDao.addOrder(userId,Integer.parseInt(productid));
+        int userId = (int) session.getAttribute("userId");
+        orderDao.addOrder(userId, Integer.parseInt(productid));
         RequestDispatcher dispatcher = req.getRequestDispatcher("purchasesuccess.jsp");
-        dispatcher.forward(req,resp);
+        dispatcher.forward(req, resp);
     }
 }
 

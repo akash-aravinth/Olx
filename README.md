@@ -178,7 +178,7 @@ This project is an online marketplace web application where users can add, sell,
 
 - [Akash Aravinth](https://github.com/akash-aravinth)
 - [Arumugam](https://github.com/Arumugamakash)
-- [Narayanan](https://github.com/newcontributor)
+- [Narayanan](https://github.com/Narayanan-005)
 
 
 # Contact us 
@@ -187,4 +187,4 @@ This project is an online marketplace web application where users can add, sell,
   
    - akasharavinth2424@gmail.com
    - arumugamn048@gmail.com
-   - 
+   - nareanbrul@gmail.com

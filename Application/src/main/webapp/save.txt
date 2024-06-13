@@ -1,20 +1,18 @@
 <c:forEach items="${List}" var="p">
 
-                                 <div class = "box">
-                                   <div class = "imagebox">
-                                    <img src ="./images/${p.getImage()}" alt = "image" height = "200px" width = "200px" class = "image"/>
-                                   </div class = "textbox">
-                                    <p class = "name">${p.getName()}</P>
-                                    <p class = "price">${p.getPrice()}</P>
-                                    <div class = "btns">
-                                      <a href="#" class = "buynow">Buy Now</a>
-                                      <a href = "#" class = "favourite">Favourite</a>
-                                    </div>
-                                 </div>
+     <div class = "box">
+       <div class = "imagebox">
+        <img src ="./images/${p.getImage()}" alt = "image" height = "200px" width = "200px" class = "image"/>
+       </div class = "textbox">
+        <p class = "name">${p.getName()}</P>
+        <p class = "price">${p.getPrice()}</P>
+        <div class = "btns">
+          <a href="#" class = "buynow">Buy Now</a>
+          <a href = "#" class = "favourite">Favourite</a>
+        </div>
+     </div>
 
-                   </c:forEach>
-
-
+</c:forEach>
 
   <c:choose>
           <c:when test="${permission}">

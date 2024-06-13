@@ -42,8 +42,8 @@ color:black;
      text-align : center;
 }
 .linkre{
-text-decoration : none;
-list-style:none;
+    text-decoration : none;
+    list-style:none;
 }
 
 .price{
@@ -78,32 +78,32 @@ list-style:none;
   flex-wrap : wrap;
 }
 .box{
-  border: 1px solid #ddd;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  padding : 10px;
-  display : block;
-  justify-content: space-between;
-  align-items: center;
-  width : 250px;
-  height : 350px;
-  flex : wrap-content;
-  margin-bottom:50px;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding : 10px;
+    display : block;
+    justify-content: space-between;
+    align-items: center;
+    width : 250px;
+    height : 350px;
+    flex : wrap-content;
+    margin-bottom:50px;
 }
 .favourite{
-        font-family : Mukta;
-        border : 1.5px solid black;
-        padding : 1px 10px;
-        border-radius : 2px;
-        text-decoration: none;
+    font-family : Mukta;
+    border : 1.5px solid black;
+    padding : 1px 10px;
+    border-radius : 2px;
+    text-decoration: none;
 }
 .buynow{
-             background-color:black;
-             color:white;
-             font-family : Mukta;
-             border : 1.5px solid black;
-             padding : 1px 10px;
-             border-radius : 2px;
-             text-decoration: none;
+    background-color:black;
+    color:white;
+    font-family : Mukta;
+    border : 1.5px solid black;
+    padding : 1px 10px;
+    border-radius : 2px;
+    text-decoration: none;
 }
 .btns{
     margin : 20px;
