@@ -1,0 +1,41 @@
+05-Jun-2024 10:41:04.584 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.89
+05-Jun-2024 10:41:04.588 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 3 2024 20:22:11 UTC
+05-Jun-2024 10:41:04.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.89.0
+05-Jun-2024 10:41:04.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+05-Jun-2024 10:41:04.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+05-Jun-2024 10:41:04.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-Jun-2024 10:41:04.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\zsgs_w10_5\.jdks\corretto-21.0.2
+05-Jun-2024 10:41:04.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS
+05-Jun-2024 10:41:04.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+05-Jun-2024 10:41:04.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Application\Application
+05-Jun-2024 10:41:04.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-9.0.89
+05-Jun-2024 10:41:04.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+05-Jun-2024 10:41:04.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+05-Jun-2024 10:41:04.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+05-Jun-2024 10:41:04.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+05-Jun-2024 10:41:04.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+05-Jun-2024 10:41:04.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-9.0.89
+05-Jun-2024 10:41:04.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Application\Application
+05-Jun-2024 10:41:04.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Application\Application\temp
+05-Jun-2024 10:41:04.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Application\Application\conf\logging.properties
+05-Jun-2024 10:41:04.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Jun-2024 10:41:04.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1\lib\idea_rt.jar=63189:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1\bin
+05-Jun-2024 10:41:04.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+05-Jun-2024 10:41:04.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+05-Jun-2024 10:41:04.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+05-Jun-2024 10:41:04.635 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.0] using APR version [1.7.4].
+05-Jun-2024 10:41:04.635 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+05-Jun-2024 10:41:04.635 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+05-Jun-2024 10:41:04.646 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+05-Jun-2024 10:41:04.952 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Jun-2024 10:41:04.968 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [545] milliseconds
+05-Jun-2024 10:41:05.003 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Jun-2024 10:41:05.003 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.89]
+05-Jun-2024 10:41:05.013 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Application\Application\conf\Catalina\localhost\Application.xml]
+05-Jun-2024 10:41:05.298 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Application\Application\conf\Catalina\localhost\Application.xml] has finished in [285] ms
+05-Jun-2024 10:41:05.302 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Jun-2024 10:41:05.327 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [358] milliseconds
+05-Jun-2024 10:50:04.612 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+05-Jun-2024 10:50:04.615 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+05-Jun-2024 10:50:04.634 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+05-Jun-2024 10:50:04.646 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

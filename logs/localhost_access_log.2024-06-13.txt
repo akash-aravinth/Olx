@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:13:05:36 +0530] "GET /Application HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:13:05:40 +0530] "GET /Application/ HTTP/1.1" 200 11840
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:13:05:40 +0530] "GET /Application/images/cycle1.jpg HTTP/1.1" 200 57300
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:13:05:40 +0530] "GET /Application/images/mobile2.jpg HTTP/1.1" 200 146306
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:13:05:40 +0530] "GET /Application/images/shofa2.jpg HTTP/1.1" 200 514058
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:13:05:40 +0530] "GET /Application/images/shoe2.jpg HTTP/1.1" 200 30610
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:13:05:40 +0530] "GET /Application/images/plant1.webp HTTP/1.1" 200 36380
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:13:05:40 +0530] "GET /Application/images/book1.webp HTTP/1.1" 200 444080
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:13:05:40 +0530] "GET /Application/images/hat3.webp HTTP/1.1" 200 15450
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:13:05:40 +0530] "GET /Application/images/plant3.webp HTTP/1.1" 200 55284
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:13:05:40 +0530] "GET /Application/images/cycle3.jpg HTTP/1.1" 200 57158
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:13:05:40 +0530] "GET /Application/images/book6.webp HTTP/1.1" 200 41678
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:13:05:40 +0530] "GET /favicon.ico HTTP/1.1" 404 682
