@@ -17,7 +17,8 @@ public class SellProduct extends HttpServlet {
     private Product product;
     private ProductDao getProduct;
     private SellDao sellDao;
-    private String uploadPath = "D:/Application/Application/src/main/webapp/images/";
+    private String Path = "D:/Application/Application/src/main/webapp/images/";
+    private String uploadPath = "D:/Application/Olx/Application/src/main/webapp/images/";
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {

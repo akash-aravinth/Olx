@@ -112,45 +112,78 @@ This project is an online marketplace web application where users can add, sell,
 
 ## Screenshots
 
+
 ## Login Page
+
 
 ![Login Image](https://github.com/akash-aravinth/Olx/blob/main/readmeimg/login.png)
 
+
 ## SignUp Page
+
 
 ![SignUp Image](https://github.com/akash-aravinth/Olx/blob/main/readmeimg/signup.png)
 
+
 ## Home Page
+
 
 ![home Image](https://github.com/akash-aravinth/Olx/blob/main/readmeimg/home.png)
 
+
 ## Product Page
+
 
 ![product Image](https://github.com/akash-aravinth/Olx/blob/main/readmeimg/product.png)
 
+
 ## Add Product Page
+
 
 ![addProduct Image](https://github.com/akash-aravinth/Olx/blob/main/readmeimg/sellproduct.png)
 
+
 ## Category Component
+
 
 ![category Image](https://github.com/akash-aravinth/Olx/blob/main/readmeimg/categorys.png)
 
+
 ## Category Page
+
 
 ![Show Category Image](https://github.com/akash-aravinth/Olx/blob/main/readmeimg/showcategory.png)
 
+
 ## Account Page
+
 
 ![Account Image](https://github.com/akash-aravinth/Olx/blob/main/readmeimg/account.png)
 
+
 ## Ordered Products Page
+
 
 ![Orders Image](https://github.com/akash-aravinth/Olx/blob/main/readmeimg/orders.png)
 
+
 ## Selling Products Page
+
 
 ![sell Image](https://github.com/akash-aravinth/Olx/blob/main/readmeimg/sellings.png)
 
 
 
+## Contributors
+
+- [Contributor1](https://github.com/contributor1)
+- [Contributor2](https://github.com/contributor2)
+- [New Contributor](https://github.com/newcontributor)
+
+
+# Contact us 
+
+# For any queries, please contact 
+  
+   - akasharavinth2424@gmail.com
+   - 
