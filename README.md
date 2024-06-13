@@ -97,3 +97,16 @@ This project is an online marketplace web application where users can add, sell,
 ### Deploy on Tomcat
 
 - Export the project as a WAR file from your IDE
+- Deploy the WAR file to your Tomcat server.
+
+### Run the Application
+
+ - Access the application at http://localhost:8080/yourappname
+
+## Usages 
+  - Register a new account
+  - Login to your account
+  - Add a product to sell
+  - Browse and purchase products from other users
+
+
