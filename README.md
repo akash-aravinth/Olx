@@ -84,6 +84,16 @@ This project is an online marketplace web application where users can add, sell,
       productid int
 );
 ```
+###  Configure Database Connection
 
+ - Update the db.properties file with your MySQL credentials
 
+```bash
+      db.url=jdbc:mysql://localhost:3306/yourdatabasename
+      db.username=yourusername
+      db.password=yourpassword
+```
 
+### Deploy on Tomcat
+
+- Export the project as a WAR file from your IDE
