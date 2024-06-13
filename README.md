@@ -27,8 +27,10 @@ This project is an online marketplace web application where users can add, sell,
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/akash-aravinth/Olx.git
+
 2. **Import the project into your IDE**
+
 3. **Configure MySQL Database**
    - Create a database named marketplace_db
    - Run the following SQL script to create necessary tables:
