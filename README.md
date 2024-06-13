@@ -52,3 +52,57 @@ This project is an online marketplace web application where users can add, sell,
 ![Example Image](https://github.com/akash-aravinth/Olx/blob/main/readmeimg/ordertable.png)
 
 
+
+### Tables
+
+## User Table
+
+```bash
+  create table user(
+      id int primary key auto_increment,
+      username varchar(100),
+      email varchar(100),
+      password varchar(100),
+      address longtext,
+      mobileNo varchar(100)
+);
+```
+
+## Product Table
+
+```bash
+  create table product(
+      productid int primary key auto_increment,
+      userid int,
+      productname varchar(500),
+      price varchar(500),
+      description longtext,
+      about longtext,
+      category varchar(500),
+      producttype varchar(500),
+      image varchar(500)
+);
+```
+
+## Order Table
+
+```bash
+  create table ordertable(
+      orderid int primary key auto_increment,
+      userid int,
+      productid int
+);
+```
+
+## Sell Table
+
+```bash
+  create table selltable(
+      sellid int primary key auto_increment,
+      userid int,
+      productid int
+);
+```
+
+
+
