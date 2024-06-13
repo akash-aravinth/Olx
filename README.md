@@ -33,25 +33,6 @@ This project is an online marketplace web application where users can add, sell,
    - Create a database named marketplace_db
    - Run the following SQL script to create necessary tables:
   
-### Tables
-
-**User Table**
-
-![Example Image](https://github.com/akash-aravinth/Olx/blob/main/readmeimg/usertable.png)
-
-**Product Table**
-
-![Example Image](https://github.com/akash-aravinth/Olx/blob/main/readmeimg/producttable.png)
-
-**Sell Product Table**
-
-![Example Image](https://github.com/akash-aravinth/Olx/blob/main/readmeimg/selltable.png)
-
-**Order Product Table**
-
-![Example Image](https://github.com/akash-aravinth/Olx/blob/main/readmeimg/ordertable.png)
-
-
 
 ### Tables
 
